@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\админ\documents\visual studio 2015\projects\dop4\dop4\source.cpp(7): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dop4.vcxproj -> c:\users\админ\documents\visual studio 2015\Projects\dop4\Debug\dop4.exe
+  dop4.vcxproj -> c:\users\админ\documents\visual studio 2015\Projects\dop4\Debug\dop4.pdb (Partial PDB)
